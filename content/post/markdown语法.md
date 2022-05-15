@@ -3,7 +3,7 @@ author: 'Wei'
 title: 'Markdown'
 date: '2022-05-14'
 categories:
-  - Markdown
+  - Mark
 ---
 
 # 斜体和粗体
@@ -574,8 +574,6 @@ C 语言里的函数 `scanf()` 怎么使用？
         printf("Hello world\n");
     }
 ```
-
-​
 
 ## 用六个`包裹多行代码
 
