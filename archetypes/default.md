@@ -5,7 +5,7 @@ description: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
-toc: true
+toc: false
 weight: false
 image: ""
 categories: [""]
